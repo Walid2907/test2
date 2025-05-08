@@ -5,3 +5,6 @@ db hna khdamin kandiro repo jdida
 mn qbila o ana wahl akifax ndkhl lfile onqad lworkspace    
 f vscode HHHHH mais here we go  
 
+
+1. ntestiw hadxi kighadi ikhroj  
+wkha ra ban liya hadxi makhdamx   
