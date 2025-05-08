@@ -1,0 +1,7 @@
+# creating anew repo only unig bash
+
+## repo from bash
+db hna khdamin kandiro repo jdida  
+mn qbila o ana wahl akifax ndkhl lfile onqad lworkspace    
+f vscode HHHHH mais here we go  
+
