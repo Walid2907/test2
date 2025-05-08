@@ -10,3 +10,7 @@ f vscode HHHHH mais here we go
 wkha ra ban liya hadxi makhdamx   
 hada test tani   
 nxof wax f lmain branche ayban les changes  
+
+hadi dyal lhabla  
+d conflict merge  
+baqin nhamqo git  
